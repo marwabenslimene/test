@@ -1,5 +1,13 @@
-<style>
+body {
+    background-color: lightblue;
+}
 
-color:red
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
 
-</style>
+h2 {
+    color: red;
+    margin-left: 20px;
+}
